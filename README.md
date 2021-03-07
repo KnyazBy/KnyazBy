@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[cv](https://github.com/KnyazBy/rsschool-cv/blob/gh-pages/cv.md)
+
 <!--
 **KnyazBy/KnyazBy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
